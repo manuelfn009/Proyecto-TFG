@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\navbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\includes\\navbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\leftMenu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\includes\\leftMenu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\hello.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\JS\\hello.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\output.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\output.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\JS\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 440,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello.js",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\hello.js",
+              "RelativeDocumentMoniker": "src\\JS\\hello.js",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\hello.js",
+              "RelativeToolTip": "src\\JS\\hello.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T11:24:30.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leftMenu.html",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\leftMenu.html",
+              "RelativeDocumentMoniker": "src\\includes\\leftMenu.html",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\leftMenu.html",
+              "RelativeToolTip": "src\\includes\\leftMenu.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-19T11:03:54.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "navbar.html",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\navbar.html",
+              "RelativeDocumentMoniker": "src\\includes\\navbar.html",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\includes\\navbar.html",
+              "RelativeToolTip": "src\\includes\\navbar.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-19T10:34:35.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T08:53:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "output.css",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\output.css",
+              "RelativeDocumentMoniker": "src\\output.css",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\output.css",
+              "RelativeToolTip": "src\\output.css",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-19T08:52:23.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.css",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\input.css",
+              "RelativeDocumentMoniker": "src\\input.css",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\input.css",
+              "RelativeToolTip": "src\\input.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-19T08:46:39.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T08:44:28.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\index.js",
+              "RelativeDocumentMoniker": "src\\JS\\index.js",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\JS\\index.js",
+              "RelativeToolTip": "src\\JS\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T08:30:02.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\MRFENEMA\\Desktop\\Manuel\\Proyecto tfg\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-19T08:29:38.559Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
